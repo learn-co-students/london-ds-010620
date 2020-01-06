@@ -5,5 +5,5 @@ Welcome to Flatiron! If you would like to clone or work with external code in th
 Make sure to read through/refer to the following briefs that cover your blogs, projects, resources and tips:
 - [Blogs](BLOG_BRIEF.md)
 - [Projects](PROJECTS_BRIEF.md)
-- [Data Science System Environment](https://github.com/learn-co-curriculum/dsc-data-science-env#updating-your-virtual-environment)
+- [Data Science System Environment](https://github.com/learn-co-curriculum/dsc-data-science-env)
 - [Course Tips](COURSE_TIPS.md)

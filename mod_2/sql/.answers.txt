@@ -1,0 +1,12 @@
+# query = """SELECT * FROM airlines"""
+# df = pd.read_sql_query(query, con)
+# df
+
+# query = """SELECT * FROM airlines WHERE country = 'United Kingdom'"""
+# df = pd.read_sql_query(query, con)
+# df
+
+query = """SELECT DISTINCT country FROM airports"""
+df_2 = pd.read_sql_query(query, con)
+df_2
+

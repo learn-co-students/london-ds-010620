@@ -1,3 +1,3 @@
 # Bayes Slides
 
-Find the [slides](http://daniellakens.blogspot.com/2015/01/always-use-welchs-t-test-instead-of.html) here. 
+Find the [slides](https://docs.google.com/presentation/d/1XIvaigeyvBj6yqZn34gmaNl_YJkZatP1oBtEd-s0Fz4/edit?usp=sharing) here. 

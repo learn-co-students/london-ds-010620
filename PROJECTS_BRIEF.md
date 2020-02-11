@@ -35,7 +35,7 @@ article on creating [Data Science Portfolios](https://www.dataquest.io/blog/buil
 ```bash
     mkdir projects/<project name>
     cd <project name>
-    git ignore python,pydev,macos,windows,pydev,sublimetext,visualstudiocode > .gitignore
+    git ignore python,pydev,macos,windows,pydev,sublimetext,visualstudiocode,jupyternotebooks > .gitignore
     git init
     git lfs install
     git lfs track "*.sqlite"

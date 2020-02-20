@@ -136,7 +136,7 @@ Your presentation should:
   - You should be able to explain anything contained in your slides or code
 - How well you implement the regression concepts we have covered in the course
 
-### Code flow
+## Code flow
 - Data ingestion
 - EDA for problem framing and guiding data cleaning
 - Data cleaning + Universe definition (any row and column that you will explore at any point in your modelling)
@@ -162,6 +162,7 @@ Your presentation should:
 - Model selection
   - Comparing the validation performance across your multiple models
   - Selecting the best one for the problem that you are trying to solve
+    - Check residuals
     - Interpretability counts
   - Check performance on TEST dataset ONLY for your ONE chosen MODEL
 - Model interpretation
